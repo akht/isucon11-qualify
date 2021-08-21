@@ -1,7 +1,7 @@
 export GO111MODULE=on
 
-REMOTE_BUILD_DIR:=/home/isucon/isucondition/webapp/go
-LOCAL_BUILD_DIR:=webapp/go
+REMOTE_BUILD_DIR:=/home/isucon/webapp/go
+LOCAL_BUILD_DIR:=go
 SOURCE_NAME:=main.go
 BIN_NAME:=isucondition
 
